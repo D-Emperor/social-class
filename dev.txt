@@ -1,1 +1,4 @@
-NEW MESSAGE
+This is dev file
+
+This is 2nd line of the code
+this is 3rd line of the code
